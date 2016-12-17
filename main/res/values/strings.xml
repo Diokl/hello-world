@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project_Camera</string>
+    <string name="title_activity_change__password">Change_Password</string>
+    <string name="title_activity_chronometr">Chronometr</string>
+</resources>
